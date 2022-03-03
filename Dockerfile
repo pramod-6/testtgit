@@ -1,4 +1,4 @@
-FROM centos:latest
+FROM centos:7
 MAINTAINER appsdbapramod@gmail.com
 RUN yum install -y httpd \
    zip \
